@@ -27,5 +27,12 @@ SCI
         /*    margin-left:auto;
     margin-right:auto;*/
 
+        
+        a:hover {
+            color: blueviolet
+        }
+    
 
 }
+
+@media screen and (max-width: 30rem)
