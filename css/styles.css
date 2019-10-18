@@ -1,17 +1,17 @@
 body {
     color: mediumpurple;
-    background-color: lightgray;
+    background-color: rgb (217,217, 217);
 
     font-family: "helvetica";
     font-size: 15px
 }
 
 SCI
-/*h2 {color:darkorchid;}*/
+/*h2 {color:rgb: (81, 35, 86);}*/
 
 
 .gray-span {
-    color: grey;
+    color: rgb (81, 56, 86);
 
 
 }
@@ -29,7 +29,7 @@ SCI
 
         
         a:hover {
-            color: blueviolet
+            color: rgb; (153, 117, 163)
         }
     
 
