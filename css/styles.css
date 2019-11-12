@@ -16,14 +16,12 @@ main {
 
 footer {
     "display"flex;
-    flex-direction: column alignments SCI
+    flex-direction: column
     /*h2 {color:rgb: (81, 35, 86);}*/
 
 
     .gray-span {
-        color: rgb (81, 56, 86);
-
-
+        color: rgb (81, 56, 86)
     }
 
     @media screen and (max-width: 40rem) {
@@ -56,9 +54,15 @@ footer {
 
         }
 
+
         header nav ul {
             display: flex;
             justify-content: flex-end;
+        }
+
+        .multicolumn__containter {
+            display: flex;
+            justify-content: space-between
         }
 
         header nav li {
